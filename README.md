@@ -1,0 +1,2 @@
+# medicine_inventory_system_vue
+智能库存系统前端
